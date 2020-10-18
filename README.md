@@ -29,6 +29,10 @@ Once the prediction is made, the application displays the predicted results on a
 - Then send data to the Machine Learning model.
 - Displaying the output.
 
+# Workflow 💹
+
+<p  align="center"><img height= "1000" width = "800" src = "https://github.com/Team-Fourth-Dimension/CARDIOease/blob/main/Timeline.jpeg"></p>
+
 ## Tech Stack 💻: 
 1. Android Studio
 2. Python
