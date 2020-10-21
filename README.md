@@ -1,4 +1,4 @@
-# CARDIOease ❤
+# CARDIOease💖
 VIT Hack PROJECT
 
 ## Introduction 🎈:
