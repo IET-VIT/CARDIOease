@@ -45,3 +45,6 @@ The final result will be a fully deployed android app which predicts the heart r
 We plan to expand our area of interests, and cover more healthcare sectors to benefit the unempowered people.
 The research for the best model accuracy will continue.
 We will take into consideration more attributes because that, will improve the model accuracy.
+
+### Link for the whole Android App Project 📱: 
+https://github.com/shruti8301/CARDIOease_final
